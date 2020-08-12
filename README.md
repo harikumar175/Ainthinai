@@ -1,0 +1,2 @@
+# Ainthinai
+Ainthinai is an eco community in Tirunelveli .They target in planting trees and ensure in transforming a green and clean ecosystem. I've developed an application so that the community members could track their activities such as how many plants they have planted so far.Its a mini project management tool to track the system.It also bridges the gap between the citizen as well as the memebrs.
